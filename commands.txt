@@ -1,0 +1,23 @@
+git init ==> to initialise git on project.
+
+git add -A ==> to add files to staged state (now git tracking all files).
+
+git commit  ==> 
+
+git branch  ==> 
+
+git log  ==> 
+
+git diff  ==>
+
+git merge  ==>
+
+
+
+
+
+
+
+
+
+
