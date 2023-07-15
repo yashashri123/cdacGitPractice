@@ -2,11 +2,11 @@ git init ==> to initialise git on project.
 
 git add -A ==> to add files to staged state (now git tracking all files).
 
-git commit  ==> 
+git commit  ==> git commit -m means msg 
 
+git log  ==> to show all details (Author,Date) who commit 
+    
 git branch  ==> 
-
-git log  ==> 
 
 git diff  ==>
 
